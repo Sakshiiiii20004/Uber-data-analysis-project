@@ -2,7 +2,7 @@ Uber Data Analysis Project
 
 Project Overview
 
-This project focuses on analyzing ride data for Uber using SQL to extract actionable insights. The goal is to simulate real-world data analysis scenarios typically faced by data analysts in the transportation industry. Inspired by the **OLA Data Analyst Project**, the dataset includes booking details, customer and driver behavior, ride metrics, and financial data.
+This project focuses on analyzing ride data for Uber using SQL to extract actionable insights. The goal is to simulate real-world data analysis scenarios typically faced by data analysts in the transportation industry.The dataset includes booking details, customer and driver behavior, ride metrics, and financial data.
 
 Key Objectives
 
